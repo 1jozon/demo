@@ -1,0 +1,4 @@
+/home/jozon/demo/build/CMakeFiles/server.dir
+/home/jozon/demo/build/CMakeFiles/client.dir
+/home/jozon/demo/build/CMakeFiles/edit_cache.dir
+/home/jozon/demo/build/CMakeFiles/rebuild_cache.dir
